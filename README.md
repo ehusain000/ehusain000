@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a NFT MarketPlace App :fire: 
-- 🌱 I’m currently mastering Java 🥇📚 :books:
+- 🔭 I’m currently working on a Focus Flow App :fire: 
+- 🌱 I’m currently mastering React Native 🥇📚 :books:
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking to help people learn to code
 - 💬 Ask me about anyting
